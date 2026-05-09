@@ -2,7 +2,7 @@
   <img src="https://github.com/Aldous6/Aldous6/blob/main/assets/header.svg?raw=true" alt="Aldo Santiago Márquez — Physicist, Researcher, Data Scientist" width="100%" />
 </p>
 
-# Aldo Santiago Márquez
+# About me!
 
 Physicist and data scientist.
 
