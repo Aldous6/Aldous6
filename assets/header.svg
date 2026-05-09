@@ -1,0 +1,57 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" fill="#050608"/>
+
+  <g opacity="0.16">
+    <path d="M0 80H1280" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M0 160H1280" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M0 240H1280" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M160 0V360" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M320 0V360" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M480 0V360" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M640 0V360" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M800 0V360" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M960 0V360" stroke="#9CA3AF" stroke-width="1"/>
+    <path d="M1120 0V360" stroke="#9CA3AF" stroke-width="1"/>
+  </g>
+
+  <circle cx="1020" cy="105" r="150" fill="url(#glow)" opacity="0.28"/>
+  <circle cx="235" cy="250" r="95" fill="url(#glow2)" opacity="0.18"/>
+
+  <g opacity="0.7">
+    <circle cx="925" cy="118" r="3" fill="#A78BFA"/>
+    <circle cx="982" cy="74" r="2" fill="#60A5FA"/>
+    <circle cx="1050" cy="142" r="2.5" fill="#E5E7EB"/>
+    <circle cx="1114" cy="96" r="2" fill="#A78BFA"/>
+    <path d="M925 118L982 74L1050 142L1114 96" stroke="#A78BFA" stroke-width="1" opacity="0.55"/>
+  </g>
+
+  <text x="80" y="130" fill="#F9FAFB" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">
+    Aldo Santiago Márquez
+  </text>
+
+  <text x="82" y="178" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="400">
+    Physicist · Researcher · Data Scientist
+  </text>
+
+  <text x="82" y="232" fill="#E5E7EB" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">
+    Research, computation, and software — built with scientific rigor.
+  </text>
+
+  <text x="84" y="285" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400">
+    Independent · Remote · Systems-minded
+  </text>
+
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 105) rotate(90) scale(150)">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#050608" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(235 250) rotate(90) scale(95)">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#050608" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
+
+
+y esto como lo meto o que
