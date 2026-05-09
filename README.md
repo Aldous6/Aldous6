@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Aldo Santiago Márquez — Physicist, Researcher, Data Scientist" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aldous6/Aldous6/main/assets/header.svg" alt="Aldo Santiago Márquez — Physicist, Researcher, Data Scientist" width="100%" />
 </p>
 
 # Aldo Santiago Márquez
