@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Aldous6/Aldous6/blob/main/assets/header.svg?raw=true" alt="Aldo Santiago Márquez — Physicist, Researcher, Data Scientist" width="100%" />
-</p>
+
 
 # About me!
 
